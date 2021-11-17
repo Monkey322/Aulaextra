@@ -58,7 +58,7 @@
     "id": 9,
     "Nome": "Starcraft",
     "Gênero": "Estrategia em tempo real",
-    "Ano": "1998, 2010",
+    "Ano": ["1998, 2010"],
     "Desenvolvedora": "Blizzard",
  }, 
  {
